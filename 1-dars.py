@@ -1,1 +1,4 @@
 print('hello')
+
+
+print("HI ESHBADALOV SIROJIDDIN WELCOME TO GITHUB")
